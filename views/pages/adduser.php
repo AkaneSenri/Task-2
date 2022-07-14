@@ -63,4 +63,3 @@ Page::part('navbar');
       </div>
     </div>
   </div>
-</section>
